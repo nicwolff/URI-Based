@@ -6,6 +6,3 @@ README
 ignore.txt
 t/00-load.t
 t/01-make-uri.t
-Makefile.PL
-META.yml
-META.json
