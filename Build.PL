@@ -8,6 +8,7 @@ my $builder = Module::Build->new(
     license             => 'perl',
     dist_author         => q{Nic Wolff <nic@angel.net>},
     dist_version_from   => 'lib/URI/Based.pm',
+    configure_requires => { 'Module::Build' => 0.40 },
     build_requires => {
         'Test::More' => 0,
     },
