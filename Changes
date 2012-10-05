@@ -6,3 +6,6 @@ Revision history for URI-Based
 1.02    2012-10-04
         Add URI::WithBase to require list
 
+1.03    2012-10-04
+        Require Module::Build and archive with gnutar
+
